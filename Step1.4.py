@@ -1,3 +1,4 @@
+#Step 1.4
 t = input('')
 if t == 'треугольник':
     a = int(input(''))
